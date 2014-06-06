@@ -5,3 +5,5 @@ gem 'mailman'
 gem 'pry'
 gem 'activerecord'
 gem 'mysql2'
+gem 'pdfkit'
+
